@@ -12,9 +12,9 @@ I am a passionate full stack developer currently immersed in a captivating capst
 
 ## Skills
 - **Languages**: JavaScript (Node.js, React.js), Python, HTML/CSS
-- **Frameworks & Libraries**: Express.js, Flask, Bootstrap, Material-UI
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **Tools & Technologies**: Git, Docker, Heroku, AWS
+- **Frameworks & Libraries**: Express.js
+- **Databases**: MongoDB
+- **Tools & Technologies**: Git
 
 ## Projects
 Here are a few highlights from my portfolio:
