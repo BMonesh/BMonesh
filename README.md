@@ -17,10 +17,7 @@ I am a passionate full stack developer currently immersed in a captivating capst
 - **Tools & Technologies**: Git
 
 ## Projects
-Here are a few highlights from my portfolio:
-1. **E-commerce Platform** - Developed a responsive e-commerce website using MERN stack.
-2. **Task Manager App** - Built a task management application with user authentication using Flask.
-3. **Blog Site** - Created a dynamic blog site with React.js and Express.js.
+Worked on many mini-projects.
 
 ## Collaboration
 I am enthusiastic about collaborating on projects that challenge and inspire me. If you have an idea or project in mind, feel free to reach out. Let's create something amazing together!
