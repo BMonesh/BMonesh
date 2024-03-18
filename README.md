@@ -26,7 +26,7 @@ Here are a few highlights from my portfolio:
 I am enthusiastic about collaborating on projects that challenge and inspire me. If you have an idea or project in mind, feel free to reach out. Let's create something amazing together!
 
 ## Get in Touch
-- LinkedIn: [[linkedin.com/in/monesh](https://www.linkedin.com/in/monesh)](https://www.linkedin.com/in/monesh-b-053439289/)
+- LinkedIn: [linkedin.com/in/monesh-b-053439289/](https://www.linkedin.com/in/monesh-b-053439289/)
 - GitHub: [github.com/BMonesh](https://github.com/BMonesh)
 
 Thank you for visiting my GitHub profile! 🚀 Let's connect, collaborate, and code!
