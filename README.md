@@ -25,9 +25,10 @@ I work across frontend interfaces, backend APIs, and databases to build complete
 
 Choose hardware, review component compatibility, and save configurations. The project connects a React interface with an Express API and MongoDB catalog.
 
-- **Original work:** designed and built the original UI and component-selection flow.
-- **AI integration:** used Gemini for illustrative performance estimates, rather than measured benchmarks.
-- **Current focus:** reviewing the later AI-assisted remake, improving compatibility checks, and making setup and documentation easier to follow.
+- **Interface & workflow:** guided component selection with dependency-based filtering.
+- **Application stack:** React frontend, Express REST API, and MongoDB catalog.
+- **AI integration:** Gemini-powered performance estimates in the original version.
+- **Active development:** compatibility validation, testing, and a streamlined build-planning experience.
 
 [Explore the code](https://github.com/BMonesh/ForgeSavant) · [Try the preview](https://forgesavant-preview.onrender.com/)
 
@@ -41,13 +42,12 @@ Choose hardware, review component compatibility, and save configurations. The pr
 | Backend & APIs | REST APIs · Node.js · Express |
 | Data & integrations | MongoDB · Python · Gemini API |
 
-I use AI tools during development and focus on understanding the implementation, checking its behavior, and explaining the decisions behind it.
+## Background & focus
 
-## Background & current direction
-
-- **Previously:** Software Engineering Intern at **Clari**, September 2024–January 2025.
-- **Building:** a clearer, more dependable ForgeSavant project and demo.
-- **Practising:** JavaScript fundamentals, database queries, testing, and concise technical explanations.
+- **Experience:** Software Engineering Intern at **Clari**, September 2024–January 2025.
+- **Focus:** full-stack applications, API integrations, database-backed workflows, and user interfaces.
+- **Building:** **ForgeSavant**, connecting hardware selection, compatibility checks, and saved PC configurations.
+- **Interests:** product engineering, backend services, and AI-powered applications.
 
 ---
 
