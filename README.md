@@ -1,42 +1,54 @@
-# Hi there, I'm Monesh! 👋
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Monesh B. — React and web development. CSE undergraduate, 2027, Chennai." width="100%" />
+</p>
 
-🎓 Kalvium’27 | 💻 Full Stack Developer | ⚙️ React | Node.js | Python | MongoDB  
-🚀 Building for impact through thoughtful code and real-world projects
+<p align="center">
+  <a href="https://www.linkedin.com/in/monesh-b-053439289/"><strong>LinkedIn</strong></a>
+  &nbsp; / &nbsp;
+  <a href="mailto:2005.monesh@gmail.com"><strong>Email</strong></a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/BMonesh/ForgeSavant"><strong>Featured project</strong></a>
+</p>
+
+## Hello, I'm Monesh
+
+I'm studying **Computer Science & Engineering (Software Product Engineering) at VELS University, Chennai**, with graduation expected in **2027**.
+
+I build React interfaces and connect them to REST APIs. I'm currently improving **ForgeSavant**, strengthening my JavaScript and database fundamentals, and learning to test and explain the code I work with.
+
+**Open to software development internships and entry-level opportunities**, with a focus on React and web development in Chennai, Bengaluru, and southern India.
+
+## Featured work
+
+### [ForgeSavant ↗](https://github.com/BMonesh/ForgeSavant)
+**A guided workspace for planning a custom PC build.**
+
+Choose hardware, review component compatibility, and save configurations. The project connects a React interface with an Express API and MongoDB catalog.
+
+- **Original work:** designed and built the original UI and component-selection flow.
+- **AI integration:** used Gemini for illustrative performance estimates, rather than measured benchmarks.
+- **Current focus:** reviewing the later AI-assisted remake, improving compatibility checks, and making setup and documentation easier to follow.
+
+[Explore the code](https://github.com/BMonesh/ForgeSavant) · [Try the preview](https://forgesavant-preview.onrender.com/)
+
+<sub>The preview may take a moment to wake up. Generated estimates and sample planning data should not be treated as validated benchmarks or current retailer quotes.</sub>
+
+## Technologies I work with
+
+| Area | Technologies |
+| :--- | :--- |
+| Interfaces | React · JavaScript · HTML · CSS |
+| APIs & project backend | REST APIs · Node.js · Express |
+| Project data & integrations | MongoDB · Python · Gemini API |
+
+I use AI tools during development and focus on understanding the implementation, checking its behavior, and explaining the decisions behind it.
+
+## Background & current direction
+
+- **Previously:** Software Engineering Intern at **Clari**, September 2024–January 2025.
+- **Building:** a clearer, more dependable ForgeSavant project and demo.
+- **Practising:** JavaScript fundamentals, database queries, testing, and concise technical explanations.
 
 ---
 
-## 👨‍💻 About Me
-
-I'm Monesh, a passionate full stack developer currently working on an exciting **capstone project** focused on real-world problem-solving. My journey into development is fueled by curiosity and creativity, and I love building tools that make life easier, smarter, and more connected.
-
-- 🔭 Currently working on: **Digital Twin Health App** – using AI & ML for personalized health insights  
-- 🌱 Constantly learning new technologies and pushing my limits through hands-on experience  
-- 🤝 Open to collaboration on full-stack, ML, and health-tech projects  
-- 💼 Looking for internships & exciting opportunities in product-focused environments  
-- 😄 Pronouns: He/Him  
-- 📫 Reach out: [2005.monesh@gmail.com](mailto:2005.monesh@gmail.com)
-
----
-
-## 🛠️ Skills
-
-**Languages:** JavaScript (Node.js, React.js), Python, HTML/CSS  
-**Frameworks/Libraries:** Express.js, TailwindCSS  
-**Databases:** MongoDB  
-**Tools & Tech:** Git, GitHub, REST APIs, Postman
-
----
-
-## 🌐 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/monesh-b-053439289/)  
-- 🧑‍💻 [GitHub](https://github.com/BMonesh)
-
----
-
-## ⚡ Fun Fact  
-I believe every line of code can spark a transformation.
-
----
-
-> Thanks for dropping by! Let’s connect, collaborate, and create something meaningful 🚀
+**Let's connect.** For opportunities or project discussions, reach me on [LinkedIn](https://www.linkedin.com/in/monesh-b-053439289/) or [email](mailto:2005.monesh@gmail.com).
