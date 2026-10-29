@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Monesh B. — React and web development. CSE undergraduate, 2027, Chennai." width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Monesh B. — Full-Stack Developer. CSE undergraduate, 2027, Chennai." width="100%" />
 </p>
 
 <p align="center">
@@ -10,13 +10,13 @@
   <a href="https://github.com/BMonesh/ForgeSavant"><strong>Featured project</strong></a>
 </p>
 
-## Hello, I'm Monesh
+## Hello, I'm Monesh — Full-Stack Developer
 
 I'm studying **Computer Science & Engineering (Software Product Engineering) at VELS University, Chennai**, with graduation expected in **2027**.
 
-I build React interfaces and connect them to REST APIs. I'm currently improving **ForgeSavant**, strengthening my JavaScript and database fundamentals, and learning to test and explain the code I work with.
+I work across frontend interfaces, backend APIs, and databases to build complete applications. My project stack includes React, Node.js, Express, and MongoDB, and I'm flexible about the technologies and responsibilities a project needs. I'm currently improving **ForgeSavant**, with a focus on compatibility logic, testing, and a dependable user experience.
 
-**Open to software development internships and entry-level opportunities**, with a focus on React and web development in Chennai, Bengaluru, and southern India.
+**Open to full-stack, frontend, backend, and broader software development internships and entry-level opportunities** in Chennai, Bengaluru, and southern India.
 
 ## Featured work
 
@@ -38,8 +38,8 @@ Choose hardware, review component compatibility, and save configurations. The pr
 | Area | Technologies |
 | :--- | :--- |
 | Interfaces | React · JavaScript · HTML · CSS |
-| APIs & project backend | REST APIs · Node.js · Express |
-| Project data & integrations | MongoDB · Python · Gemini API |
+| Backend & APIs | REST APIs · Node.js · Express |
+| Data & integrations | MongoDB · Python · Gemini API |
 
 I use AI tools during development and focus on understanding the implementation, checking its behavior, and explaining the decisions behind it.
 
